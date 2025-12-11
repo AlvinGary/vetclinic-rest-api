@@ -19,7 +19,7 @@ var (
 )
 
 func main() {
-	err = godotenv.Load(".env")
+	err = godotenv.Load("config/.env")
     if err != nil {
         panic("Error loading .env file")
     }
