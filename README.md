@@ -9,9 +9,15 @@ Built with **Go**, **Gin**, **PostgreSQL**, and **JWT Authentication** along wit
 
 https://vetclinic-rest-api-production.up.railway.app
 
-Use this domain for all API requests in Postman or other API testing tools.
+Open the link to view the full API documentation, including all endpoints and example responses.
 
 ---
+
+## 🌐 API Documentation (Postman)
+
+https://documenter.getpostman.com/view/15890346/2sB3dSQot9
+
+Open the domain to check the api documentation of this project to check the path with example result.
 
 ## ✅ Overview
 
